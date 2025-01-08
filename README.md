@@ -33,7 +33,7 @@ Questo progetto consiste nella creazione di una dashboard interattiva in Excel p
 <img width="914" alt="Schermata 2025-01-08 alle 16 22 49" src="https://github.com/user-attachments/assets/7534a586-f9a6-4f5c-a2af-1ce8eb57d3a3" />
 <br><br>
 
-**Costruzione del Dashboard**
+**Costruzione della Dashboard**
 
 - Aggregazione di tutti gli elementi visivi e analitici in un'unica pagina interattiva.
 - Aggiunta di slicer e filtri per consentire l'esplorazione dinamica dei dati.
